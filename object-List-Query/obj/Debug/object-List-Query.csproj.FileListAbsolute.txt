@@ -1,0 +1,42 @@
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\bin\Debug\object-List-Query.pdb
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.csprojResolveAssemblyReference.cache
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.csprojResolveAssemblyReference.cache
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI\object-List-Query\object-List-Query\bin\Debug\object-List-Query.pdb
+\\psf\Dropbox\Visual Studio MOVE\Week 11 WCCI\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+\\psf\Dropbox\Visual Studio MOVE\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+\\psf\Dropbox\Visual Studio MOVE\Week 11 WCCI\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\old week 11\Week 11 WCCI - Copy\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\old week 11\Week 11 WCCI - Copy\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\old week 11\Week 11 WCCI - Copy\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy no3\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy no3\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy no3\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy no3\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy no3\object-List-Query\object-List-Query\bin\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Week 11 WCCI - Copy no3\object-List-Query\object-List-Query\obj\Debug\object-List-Query.csprojResolveAssemblyReference.cache
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI - 3-21-16\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI - 3-21-16\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI - 3-21-16\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI - 3-21-16\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI - 3-21-16\object-List-Query\object-List-Query\bin\Debug\object-List-Query.pdb
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\Week 11 WCCI - 3-21-16\object-List-Query\object-List-Query\obj\Debug\object-List-Query.csprojResolveAssemblyReference.cache
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\object-List-Query\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\object-List-Query\object-List-Query\obj\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\object-List-Query\object-List-Query\bin\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\object-List-Query\object-List-Query\bin\Debug\object-List-Query.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\object-List-Query\object-List-Query\obj\Debug\object-List-Query.csprojResolveAssemblyReference.cache
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Libary Resource Manager\object-List-Query\bin\Debug\object-List-Query.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Libary Resource Manager\object-List-Query\obj\Debug\object-List-Query.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\Libary Resource Manager\object-List-Query\obj\Debug\object-List-Query.pdb

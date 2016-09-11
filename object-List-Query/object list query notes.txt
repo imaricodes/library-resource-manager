@@ -1,0 +1,37 @@
+
+LOCATE RESOURCE METHOD
+*This class will be derived from resource base class
+
+*A method must first exist to query the particular item's index. Then this result is assigned to a var. This var gets passed to the next method
+
+*maybe should keep the static current student and current resource var (in main program), but this time will hold the object
+
+*maybe should be a query class that has student search and resrouce search
+
+*each method should include an option to list student info and resource info.. how to display?
+
+*must have try catch in case bad input
+
+*don't forget to add case ignore (to list?) the way I did in dictionary in last iteration
+
+
+ADD RESOURCE METHOD
+Input:
+(<List class> <local variable>)
+(input should be current relevent var...current resource)
+
+A do loop will handle the process of 
+
+
+
+
+
+
+Return?:
+
+
+
+
+
+Edit Resource Method
+
